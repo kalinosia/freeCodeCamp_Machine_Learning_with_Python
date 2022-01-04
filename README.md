@@ -24,8 +24,8 @@ Even if you are completely new to neural networks, these video courses by Brando
 Machine learning has many practical applications. By completing these free and challenging coding projects, you will demonstrate that you have a good foundational knowledge of machine learning, and qualify for your Machine Learning with Python certification.
 
 * Rock Paper Scissors
-* Cat and Dog Image ClassifierNot Passed
-* Book Recommendation Engine using KNNNot Passed
-* Linear Regression Health Costs CalculatorNot Passed
-* Neural Network SMS Text ClassifierNot Passed
+* Cat and Dog Image Classifier
+* Book Recommendation Engine using KNN
+* Linear Regression Health Costs Calculator
+* Neural Network SMS Text Classifier
 
